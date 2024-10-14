@@ -1,0 +1,646 @@
+{
+  "USD": {
+    "currencyName": "Amerikan Doları",
+    "country": "US"
+  },
+  "AED": {
+    "currencyName": "Birleşik Arap Emirlikleri Dirhemi",
+    "country": "AE"
+  },
+  "AFN": {
+    "currencyName": "Afgan Afganisi",
+    "country": "AF"
+  },
+  "ALL": {
+    "currencyName": "Arnavutluk Leki",
+    "country": "AL"
+  },
+  "AMD": {
+    "currencyName": "Ermenistan Dramı",
+    "country": "AM"
+  },
+  "ANG": {
+    "currencyName": "Hollanda Antilleri Florini",
+    "country": "AW"
+  },
+  "AOA": {
+    "currencyName": "Angola Kwanza",
+    "country": "AO"
+  },
+  "ARS": {
+    "currencyName": "Arjantin Pesosu",
+    "country": "AR"
+  },
+  "AUD": {
+    "currencyName": "Avustralya Doları",
+    "country": "AU"
+  },
+  "AWG": {
+    "currencyName": "Aruba Florini",
+    "country": "AW"
+  },
+  "AZN": {
+    "currencyName": "Azerbaycan Manatı",
+    "country": "AZ"
+  },
+  "BAM": {
+    "currencyName": "Bosna-Hersek Markı",
+    "country": "BA"
+  },
+  "BBD": {
+    "currencyName": "Barbados Doları",
+    "country": "BB"
+  },
+  "BDT": {
+    "currencyName": "Bangladeş Takası",
+    "country": "BD"
+  },
+  "BGN": {
+    "currencyName": "Bulgar Levası",
+    "country": "BG"
+  },
+  "BHD": {
+    "currencyName": "Bahreyn Dinarı",
+    "country": "BH"
+  },
+  "BIF": {
+    "currencyName": "Burundi Frangı",
+    "country": "BI"
+  },
+  "BMD": {
+    "currencyName": "Bermuda Doları",
+    "country": "BM"
+  },
+  "BND": {
+    "currencyName": "Brunei Doları",
+    "country": "BN"
+  },
+  "BOB": {
+    "currencyName": "Bolivya Bolivianosu",
+    "country": "BO"
+  },
+  "BRL": {
+    "currencyName": "Brezilya Reali",
+    "country": "BR"
+  },
+  "BSD": {
+    "currencyName": "Bahamalar Doları",
+    "country": "BS"
+  },
+  "BTN": {
+    "currencyName": "Butan Ngultrumu",
+    "country": "BT"
+  },
+  "BWP": {
+    "currencyName": "Botsvana Pulası",
+    "country": "BW"
+  },
+  "BYN": {
+    "currencyName": "Beyaz Rusya Rublesi",
+    "country": "BY"
+  },
+  "BZD": {
+    "currencyName": "Belize Doları",
+    "country": "BZ"
+  },
+  "CAD": {
+    "currencyName": "Kanada Doları",
+    "country": "CA"
+  },
+  "CDF": {
+    "currencyName": "Kongo Frangı",
+    "country": "CD"
+  },
+  "CHF": {
+    "currencyName": "İsviçre Frangı",
+    "country": "CH"
+  },
+  "CLP": {
+    "currencyName": "Şili Pesosu",
+    "country": "CL"
+  },
+  "CNY": {
+    "currencyName": "Çin Yuanı",
+    "country": "CN"
+  },
+  "COP": {
+    "currencyName": "Kolombiya Pesosu",
+    "country": "CO"
+  },
+  "CRC": {
+    "currencyName": "Kosta Rika Kolonu",
+    "country": "CR"
+  },
+  "CUP": {
+    "currencyName": "Küba Pesosu",
+    "country": "CU"
+  },
+  "CVE": {
+    "currencyName": "Yeşil Burun Adaları Eskudosu",
+    "country": "CV"
+  },
+  "CZK": {
+    "currencyName": "Çek Korunası",
+    "country": "CZ"
+  },
+  "DJF": {
+    "currencyName": "Cibuti Frangı",
+    "country": "DJ"
+  },
+  "DKK": {
+    "currencyName": "Danimarka Kronu",
+    "country": "DK"
+  },
+  "DOP": {
+    "currencyName": "Dominik Pesosu",
+    "country": "DO"
+  },
+  "DZD": {
+    "currencyName": "Cezayir Dinarı",
+    "country": "DZ"
+  },
+  "EGP": {
+    "currencyName": "Mısır Poundu",
+    "country": "EG"
+  },
+  "ERN": {
+    "currencyName": "Eritre Nakfası",
+    "country": "ER"
+  },
+  "ETB": {
+    "currencyName": "Etiyopya Birrisi",
+    "country": "ET"
+  },
+  "EUR": {
+    "currencyName": "Euro",
+    "country": "EU"
+  },
+  "FJD": {
+    "currencyName": "Fiji Doları",
+    "country": "FJ"
+  },
+  "FKP": {
+    "currencyName": "Falkland Adaları Poundu",
+    "country": "FK"
+  },
+  "FOK": {
+    "currencyName": "Faroe Adaları Kronu",
+    "country": "FO"
+  },
+  "GBP": {
+    "currencyName": "İngiliz Poundu",
+    "country": "GB"
+  },
+  "GEL": {
+    "currencyName": "Gürcistan Lari",
+    "country": "GE"
+  },
+  "GGP": {
+    "currencyName": "Guernsey Poundu",
+    "country": "GG"
+  },
+  "GHS": {
+    "currencyName": "Gana Cedisidir",
+    "country": "GH"
+  },
+  "GIP": {
+    "currencyName": "Cebelitarık Poundu",
+    "country": "GI"
+  },
+  "GMD": {
+    "currencyName": "Gambiya Dalasisi",
+    "country": "GM"
+  },
+  "GNF": {
+    "currencyName": "Gine Frangı",
+    "country": "GN"
+  },
+  "GTQ": {
+    "currencyName": "Guatemala Quetzalı",
+    "country": "GT"
+  },
+  "GYD": {
+    "currencyName": "Guyana Doları",
+    "country": "GY"
+  },
+  "HKD": {
+    "currencyName": "Hong Kong Doları",
+    "country": "HK"
+  },
+  "HNL": {
+    "currencyName": "Honduras Lempirası",
+    "country": "HN"
+  },
+  "HRK": {
+    "currencyName": "Hırvat Kunas",
+    "country": "HR"
+  },
+  "HTG": {
+    "currencyName": "Haiti Goudası",
+    "country": "HT"
+  },
+  "HUF": {
+    "currencyName": "Macar Forinti",
+    "country": "HU"
+  },
+  "IDR": {
+    "currencyName": "Endonezya Rupiahı",
+    "country": "ID"
+  },
+  "ILS": {
+    "currencyName": "İsrail Şekeli",
+    "country": "IL"
+  },
+  "IMP": {
+    "currencyName": "İngiltere Manş Adaları Poundu",
+    "country": "IM"
+  },
+  "INR": {
+    "currencyName": "Hindistan Rupisi",
+    "country": "IN"
+  },
+  "IQD": {
+    "currencyName": "Irak Dinarı",
+    "country": "IQ"
+  },
+  "IRR": {
+    "currencyName": "İran Riyali",
+    "country": "IR"
+  },
+  "ISK": {
+    "currencyName": "İzlanda Kronu",
+    "country": "IS"
+  },
+  "JEP": {
+    "currencyName": "Jersey Poundu",
+    "country": "JE"
+  },
+  "JMD": {
+    "currencyName": "Jamaika Doları",
+    "country": "JM"
+  },
+  "JOD": {
+    "currencyName": "Ürdün Dinarı",
+    "country": "JO"
+  },
+  "JPY": {
+    "currencyName": "Japon Yeni",
+    "country": "JP"
+  },
+  "KES": {
+    "currencyName": "Kenya Şilini",
+    "country": "KE"
+  },
+  "KGS": {
+    "currencyName": "Kırgızistan Somu",
+    "country": "KG"
+  },
+  "KHR": {
+    "currencyName": "Kamboçya Rieli",
+    "country": "KH"
+  },
+  "KID": {
+    "currencyName": "Kiribati Doları",
+    "country": "KI"
+  },
+  "KMF": {
+    "currencyName": "Komorlar Frangı",
+    "country": "KM"
+  },
+  "KRW": {
+    "currencyName": "Güney Kore Wonu",
+    "country": "KR"
+  },
+  "KWD": {
+    "currencyName": "Kuveyt Dinarı",
+    "country": "KW"
+  },
+  "KYD": {
+    "currencyName": "Kayman Adaları Doları",
+    "country": "KY"
+  },
+  "KZT": {
+    "currencyName": "Kazakistan Tengesi",
+    "country": "KZ"
+  },
+  "LAK": {
+    "currencyName": "Lao Kipi",
+    "country": "LA"
+  },
+  "LBP": {
+    "currencyName": "Lübnan Poundu",
+    "country": "LB"
+  },
+  "LKR": {
+    "currencyName": "Sri Lanka Rupisi",
+    "country": "LK"
+  },
+  "LRD": {
+    "currencyName": "Liberya Doları",
+    "country": "LR"
+  },
+  "LSL": {
+    "currencyName": "Lesotho Loti",
+    "country": "LS"
+  },
+  "LYD": {
+    "currencyName": "Libya Dinarı",
+    "country": "LY"
+  },
+  "MAD": {
+    "currencyName": "Fas Dirhemi",
+    "country": "MA"
+  },
+  "MDL": {
+    "currencyName": "Moldova Leu",
+    "country": "MD"
+  },
+  "MGA": {
+    "currencyName": "Madagaskar Ariary",
+    "country": "MG"
+  },
+  "MKD": {
+    "currencyName": "Kuzey Makedonya Dinarı",
+    "country": "MK"
+  },
+  "MMK": {
+    "currencyName": "Myanmar Kyatı",
+    "country": "MM"
+  },
+  "MNT": {
+    "currencyName": "Moğolistan Tugruku",
+    "country": "MN"
+  },
+  "MOP": {
+    "currencyName": "Makaoyu Patakanı",
+    "country": "MO"
+  },
+  "MRU": {
+    "currencyName": "Moritanya Ouguiyas",
+    "country": "MR"
+  },
+  "MUR": {
+    "currencyName": "Mauritius Rupisi",
+    "country": "MU"
+  },
+  "MVR": {
+    "currencyName": "Maldivler Rufiyaa",
+    "country": "MV"
+  },
+  "MWK": {
+    "currencyName": "Malavi Kwatchası",
+    "country": "MW"
+  },
+  "MXN": {
+    "currencyName": "Meksika Pesosu",
+    "country": "MX"
+  },
+  "MYR": {
+    "currencyName": "Malezya Ringgiti",
+    "country": "MY"
+  },
+  "MZN": {
+    "currencyName": "Mozambik Metikali",
+    "country": "MZ"
+  },
+  "NAD": {
+    "currencyName": "Namibya Doları",
+    "country": "NA"
+  },
+  "NGN": {
+    "currencyName": "Nijerya Nairası",
+    "country": "NG"
+  },
+  "NIO": {
+    "currencyName": "Nikaragua Cordobası",
+    "country": "NI"
+  },
+  "NOK": {
+    "currencyName": "Norveç Kronu",
+    "country": "NO"
+  },
+  "NPR": {
+    "currencyName": "Nepal Rupisi",
+    "country": "NP"
+  },
+  "NZD": {
+    "currencyName": "Yeni Zelanda Doları",
+    "country": "NZ"
+  },
+  "OMR": {
+    "currencyName": "Umman Riyali",
+    "country": "OM"
+  },
+  "PAB": {
+    "currencyName": "Panama Balboa",
+    "country": "PA"
+  },
+  "PEN": {
+    "currencyName": "Peru Yeni Solu",
+    "country": "PE"
+  },
+  "PGK": {
+    "currencyName": "Papua Yeni Gine Kinası",
+    "country": "PG"
+  },
+  "PHP": {
+    "currencyName": "Filipin Pesosu",
+    "country": "PH"
+  },
+  "PKR": {
+    "currencyName": "Pakistan Rupisi",
+    "country": "PK"
+  },
+  "PLN": {
+    "currencyName": "Polonya Zlotisi",
+    "country": "PL"
+  },
+  "PYG": {
+    "currencyName": "Paraguay Guaranisi",
+    "country": "PY"
+  },
+  "QAR": {
+    "currencyName": "Katar Riyali",
+    "country": "QA"
+  },
+  "RON": {
+    "currencyName": "Romanya Leu",
+    "country": "RO"
+  },
+  "RSD": {
+    "currencyName": "Sırbistan Dinarı",
+    "country": "RS"
+  },
+  "RUB": {
+    "currencyName": "Rus Rublesi",
+    "country": "RU"
+  },
+  "RWF": {
+    "currencyName": "Ruanda Frangı",
+    "country": "RW"
+  },
+  "SAR": {
+    "currencyName": "Suudi Arabistan Riyali",
+    "country": "SA"
+  },
+  "SBD": {
+    "currencyName": "Solomons Adaları Doları",
+    "country": "SB"
+  },
+  "SCR": {
+    "currencyName": "Seyşeller Rupisi",
+    "country": "SC"
+  },
+  "SDG": {
+    "currencyName": "Sudan Poundu",
+    "country": "SD"
+  },
+  "SEK": {
+    "currencyName": "İsveç Kronu",
+    "country": "SE"
+  },
+  "SGD": {
+    "currencyName": "Singapur Doları",
+    "country": "SG"
+  },
+  "SHP": {
+    "currencyName": "Saint Helena Poundu",
+    "country": "SH"
+  },
+  "SLE": {
+    "currencyName": "Sierra Leone Leonesi",
+    "country": "SL"
+  },
+  "SLL": {
+    "currencyName": "Sierra Leone Leonesi",
+    "country": "SL"
+  },
+  "SOS": {
+    "currencyName": "Somali Şilini",
+    "country": "SO"
+  },
+  "SRD": {
+    "currencyName": "Surinam Doları",
+    "country": "SR"
+  },
+  "SSP": {
+    "currencyName": "Güney Sudan Poundu",
+    "country": "SS"
+  },
+  "STN": {
+    "currencyName": "São Tomé ve Príncipe Dobra",
+    "country": "ST"
+  },
+  "SYP": {
+    "currencyName": "Suriye Lirası",
+    "country": "SY"
+  },
+  "SZL": {
+    "currencyName": "Eswatini Lilangeni",
+    "country": "SZ"
+  },
+  "THB": {
+    "currencyName": "Tayland Bahtı",
+    "country": "TH"
+  },
+  "TJS": {
+    "currencyName": "Tacikistan Somonisi",
+    "country": "TJ"
+  },
+  "TMT": {
+    "currencyName": "Türkmenistan Manatı",
+    "country": "TM"
+  },
+  "TND": {
+    "currencyName": "Tunus Dinarı",
+    "country": "TN"
+  },
+  "TOP": {
+    "currencyName": "Tonga Paʻanga",
+    "country": "TO"
+  },
+  "TRY": {
+    "currencyName": "Türk Lirası",
+    "country": "TR"
+  },
+  "TTD": {
+    "currencyName": "Trinidad ve Tobago Doları",
+    "country": "TT"
+  },
+  "TVD": {
+    "currencyName": "Tuvalu Doları",
+    "country": "TV"
+  },
+  "TWD": {
+    "currencyName": "Yeni Tayvan Doları",
+    "country": "TW"
+  },
+  "TZS": {
+    "currencyName": "Tanzanya Şilini",
+    "country": "TZ"
+  },
+  "UAH": {
+    "currencyName": "Ukrayna Grivnası",
+    "country": "UA"
+  },
+  "UGX": {
+    "currencyName": "Uganda Şilini",
+    "country": "UG"
+  },
+  "UYU": {
+    "currencyName": "Uruguay Pesosu",
+    "country": "UY"
+  },
+  "UZS": {
+    "currencyName": "Özbekistan Somu",
+    "country": "UZ"
+  },
+  "VES": {
+    "currencyName": "Venezuela Bolivarı",
+    "country": "VE"
+  },
+  "VND": {
+    "currencyName": "Vietnam Dongu",
+    "country": "VN"
+  },
+  "VUV": {
+    "currencyName": "Vanuatu Vatu",
+    "country": "VU"
+  },
+  "WST": {
+    "currencyName": "Samoa Tala",
+    "country": "WS"
+  },
+  "XAF": {
+    "currencyName": "CFA Frangı (Orta Afrika)",
+    "country": "CM"
+  },
+  "XCD": {
+    "currencyName": "Doğu Karayip Doları",
+    "country": "AG"
+  },
+  "XOF": {
+    "currencyName": "CFA Frangı (Batı Afrika)",
+    "country": "BJ"
+  },
+  "XPF": {
+    "currencyName": "CFP Frangı",
+    "country": "PF"
+  },
+  "YER": {
+    "currencyName": "Yemen Riyali",
+    "country": "YE"
+  },
+  "ZAR": {
+    "currencyName": "Güney Afrika Randı",
+    "country": "ZA"
+  },
+  "ZMW": {
+    "currencyName": "Zambiya Kwatchası",
+    "country": "ZM"
+  },
+  "ZWL": {
+    "currencyName": "Zimbabve Doları",
+    "country": "ZW"
+  }
+}
