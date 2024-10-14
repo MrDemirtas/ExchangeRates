@@ -83,6 +83,12 @@ html {
   gap: 24px;
 }
 
+.rateCountArea {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .exchangeRates {
   color: #000;
   width: 100%;
