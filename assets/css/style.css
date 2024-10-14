@@ -171,3 +171,9 @@ input[type="number"] {
   display: flex;
   gap: 48px;
 }
+
+.rateCardTRY,
+.rateCardEUR,
+.rateCardUSD {
+  order: -1;
+}

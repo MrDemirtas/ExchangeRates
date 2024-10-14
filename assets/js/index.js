@@ -22,14 +22,14 @@ fetchData("/assets/json/currencyNames.json")
     for (const key in response) {
       document.getElementById("selectedRate").innerHTML += `<option value="${key}">${response[key].currencyName}</option>`;
       document.getElementById("exchangeRates").innerHTML += `
-      <div class="rateCard">
-        <img src="https://flagcdn.com/${response[key]["country"].toLowerCase()}.svg" />
-        <div class="exchangeRateInfo">
-          <span id="exchangeRateName">${response[key].currencyName}</span>
-          <span id="conversionRate${key}" class="conversionRate ${key}">1</span>
+        <div class="rateCard rateCard${key}">
+          <img src="https://flagcdn.com/${response[key]["country"].toLowerCase()}.svg" />
+          <div class="exchangeRateInfo">
+            <span id="exchangeRateName">${response[key].currencyName}</span>
+            <span id="conversionRate${key}" class="conversionRate ${key}">1</span>
+          </div>
         </div>
-      </div>
-      `;
+        `;
     }
     document.getElementById("selectedRate").value = selectedRate;
     run();
